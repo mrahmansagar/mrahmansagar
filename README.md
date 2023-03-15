@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there. i'm Sagar 👋
+### Hi there. I'm Sagar 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mrahmansagar&show_icons=true&theme=radical"/>
 
