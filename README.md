@@ -17,20 +17,6 @@ Here are some ideas to get you started:
 
 #### Welcome to my GitHub Page.
 
-<!-- 
-<table><tr>
-<td><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mrahmansagar&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true" alt="Github Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmansagar&layout=compact&show_icons=true&bg_color=000000&border_color=302d41&title_color=00FF00&text_color=00FF00&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" /></td>
-</tr></table> 
--->
-
-<!--
-<table><tr>
-<td><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mrahmansagar&show_icons=true&theme=radical" alt="Github Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmansagar&layout=compact" alt="Most Used Languages" /></td>
-</tr></table>
--->
-
 <table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmansagar&layout=compact" alt="Most Used Languages" /></td>
 </tr></table>
