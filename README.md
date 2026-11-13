@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 #### Welcome to my GitHub Page.
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmansagar&layout=compact" alt="Most Used Languages" /></td>
-</tr></table>
-
 <!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mrahmansagar&show_icons=true&theme=radical"/>
 
